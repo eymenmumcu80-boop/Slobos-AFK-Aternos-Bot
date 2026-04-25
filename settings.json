@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PizzaSmp001.aternos.me:36535",
+    "port":36535,
     "version": "",
     "try-creative": false
   },

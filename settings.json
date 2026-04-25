@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PizzaSmp001.aternos.me:36535",
+    "ip": "PizzaSmp001.aternos.me",
     "port":36535,
     "version": "",
     "try-creative": false

@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Afkbot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "PizzaSmp001.aternos.me",
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 20000000,
+    "max-reconnect-delay": 1200000000
   },
   "movement": {
     "enabled": true,
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 500000000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000000000
     }
   },
   "modules": {
